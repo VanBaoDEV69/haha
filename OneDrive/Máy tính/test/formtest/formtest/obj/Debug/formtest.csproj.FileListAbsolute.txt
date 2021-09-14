@@ -1,0 +1,10 @@
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\bin\Debug\formtest.exe.config
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\bin\Debug\formtest.exe
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\bin\Debug\formtest.pdb
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\obj\Debug\formtest.csproj.AssemblyReference.cache
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\obj\Debug\formtest.frmQuanLySinhVien.resources
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\obj\Debug\formtest.Properties.Resources.resources
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\obj\Debug\formtest.csproj.GenerateResource.cache
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\obj\Debug\formtest.csproj.CoreCompileInputs.cache
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\obj\Debug\formtest.exe
+C:\Users\baoto\OneDrive\Máy tính\test\formtest\formtest\obj\Debug\formtest.pdb
