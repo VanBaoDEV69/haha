@@ -1,0 +1,7 @@
+C:\Users\baoto\source\repos\haha\haha\bin\Debug\haha.exe.config
+C:\Users\baoto\source\repos\haha\haha\bin\Debug\haha.exe
+C:\Users\baoto\source\repos\haha\haha\bin\Debug\haha.pdb
+C:\Users\baoto\source\repos\haha\haha\obj\Debug\haha.csproj.AssemblyReference.cache
+C:\Users\baoto\source\repos\haha\haha\obj\Debug\haha.csproj.CoreCompileInputs.cache
+C:\Users\baoto\source\repos\haha\haha\obj\Debug\haha.exe
+C:\Users\baoto\source\repos\haha\haha\obj\Debug\haha.pdb
