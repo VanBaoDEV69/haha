@@ -12,7 +12,9 @@ namespace haha
         {
 
             // xin chaof cac ban
+
             Console.WriteLine("Hello");
+            Console.WriteLine("My name is Bao. Very happy to miss you.");
             Console.ReadKey();
 
         }
